@@ -1,7 +1,9 @@
-<img align="center" alt="Farhanpasha" width="1200" src="https://github.com/farhan0715/farhan0715/blob/main/farhan.jpg">
+![logo](https://github.com/farhan0715/farhan0715/blob/main/farhanEngineer.png)
 
 <h1 align="center">Hi 👋, I'm Farhan</h1>
-<h3 align="center">A passionate Data Science from India</h3>
+<h3 align="center">A passionate AI/ML/COMPUTER VISION from India</h3>
+<img align="right" alt="Farhanpasha" width="229" src="https://github.com/farhan0715/farhan0715/blob/main/ai_first.gif">
+<img align="right" alt="Farhanpasha" width="305" src="https://github.com/farhan0715/farhan0715/blob/main/ai_secondary_3.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=farhan0715&label=Profile%20views&color=0e75b6&style=flat" alt="farhan0715" /> </p>
 
